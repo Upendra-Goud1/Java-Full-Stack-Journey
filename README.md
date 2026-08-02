@@ -9,3 +9,6 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
 -------------------------------------------------------------------------------------------
 | 01   | JDK JRE JVM Architecture         | [view](./day01-jdk-jvm-architecture/notes.md)
 -------------------------------------------------------------------------------------------
+| 02   | Data Types                       | [view](./day02-java-data-types/notes.md)
+                                            [view](./day02-java-data-types/practice.java)
+-------------------------------------------------------------------------------------------
