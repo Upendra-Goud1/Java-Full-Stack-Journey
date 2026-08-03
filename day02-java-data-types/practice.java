@@ -3,7 +3,7 @@ public class practice {
         byte age = 127;
         short evMotor = 32767;
         int otp = 123456;
-        long mobile = 9346306009L;
+        long mobile = 9839383939L;
         float acBalance = 500.12f;
         double loanAmount = 50000.0;
         char section = 'A';
