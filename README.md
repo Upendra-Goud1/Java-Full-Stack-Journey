@@ -19,4 +19,11 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day03-Operators-In-Java/UnaryOperator.java)
                                           | [view](./day03-Operators-In-Java/LogicalOperator.java)
                                           | [view](./day03-Operators-In-Java/TernaryOperator.java)
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+| 04   | ScannerClass and Conditional Stat| [view](./       day04-ScannerClass-And-Conditional-Statements/ScannerClass1.java)
+                                          | [view](./day04-ScannerClass-And-Conditional-Statements/IfStatement.java)
+                                          | [view](./day04-ScannerClass-And-Conditional-Statements/IfElseLadder.java)
+                                          | [view](./day04-ScannerClass-And-Conditional-Statements/NestedIf.java)
+                                          | [view](./day04-ScannerClass-And-Conditional-Statements/SwitchStatement.java)
+                                          |[view](./day04-ScannerClass-And-Conditional-Statements/Arguments.java)
+------------------------------------------------------------------------------------------
