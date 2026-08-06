@@ -36,3 +36,7 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day05-Loops-In-Java/LabelBreakOuter.java)
                                           | [view](./day05-Loops-In-Java/LabelBreakInner.java)
 ----------------------------------------------------------------------------------------------------------------
+| 06   | Methods and Type Casting         | [view](./day06-Methods-And-TypeCasting/MethodPrimeCheck.java)
+                                          | [view](./day06-Methods-And-TypeCasting/ImplicitTypeCasting.java)
+                                          | [view](./day06-Methods-And-TypeCasting/ExplicitTypeCasting.java)
+----------------------------------------------------------------------------------------------------------------
