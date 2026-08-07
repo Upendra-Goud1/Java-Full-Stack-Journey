@@ -40,3 +40,8 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day06-Methods-And-TypeCasting/ImplicitTypeCasting.java)
                                           | [view](./day06-Methods-And-TypeCasting/ExplicitTypeCasting.java)
 ----------------------------------------------------------------------------------------------------------------
+| 07   | Methods in String                | [view](./day07-Strings-In-Java/StringComparison.java)
+                                          | [view](./day07-Strings-In-Java/StringMethods.java)
+                                          | [view](./day07-Strings-In-Java/ReverseString.java)
+                                          | [view](./day07-Strings-In-Java/AllSubstrings.java)
+-----------------------------------------------------------------------------------------------------------------
