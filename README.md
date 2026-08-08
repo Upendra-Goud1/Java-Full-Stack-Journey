@@ -45,3 +45,10 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day07-Strings-In-Java/ReverseString.java)
                                           | [view](./day07-Strings-In-Java/AllSubstrings.java)
 -----------------------------------------------------------------------------------------------------------------
+| 08   | Arrays In Java                   | [view](./day08-Arrays-In-Java/Arrays1.java)
+                                          | [view](./day08-Arrays-In-Java/Problem1.java)
+                                          | [view](./day08-Arrays-In-Java/ArrayReverse.java)
+                                          | [view](./day08-Arrays-In-Java/LargestAndSmallest.java)
+                                          | [view](./day08-Arrays-In-Java/TwoDArray.java)
+                                          | [view](./day08-Arrays-In-Java/TwoDArrayProblems.java)
+-----------------------------------------------------------------------------------------------------------------
