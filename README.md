@@ -56,3 +56,7 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day09-Oops-Classes-And-Constructors/Car.java)
                                           | [view](./day09-Oops-Classes-And-Constructors/Bus.java)
 -----------------------------------------------------------------------------------------------------------------
+| 10   | Types of Variables in Java       | [view](./day10-Types-Of-Variables-In-Java/Student.java)
+                                          | [view](./day10-Types-Of-Variables-In-Java/College.java)
+                                          | [view](./day10-Types-Of-Variables-In-Java/LocalVariableDemo.java)
+-----------------------------------------------------------------------------------------------------------------
