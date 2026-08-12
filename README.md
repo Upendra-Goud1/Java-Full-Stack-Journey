@@ -73,3 +73,7 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day11-OOPS-Principles-Inheritance/hierarchialinheritance/CngCar.java)
                                           | [view](./day11-OOPS-Principles-Inheritance/hierarchialinheritance/TestCar.java)
 -----------------------------------------------------------------------------------------------------------------
+| 12   | OOPs this and super              | [view](./day12-OOPS-This-Vs-Super/thisvssuper/Car.java)
+                                          | [view](./day12-OOPS-This-Vs-Super/thisvssuper/FuelCar.java)
+                                          | [view](./day12-OOPS-This-Vs-Super/thisvssuper/Test.java)
+-----------------------------------------------------------------------------------------------------------------
