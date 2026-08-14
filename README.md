@@ -79,3 +79,8 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
 -----------------------------------------------------------------------------------------------------------------
 | 13   | OOPS-Polymorphism Compile Time   | [view](./day13-OOPS-Principles-Polymorphism/CompileTime/MethodOverloading/Calculator.java)
 -----------------------------------------------------------------------------------------------------------------
+| 14   | Run Time Polymorphism            | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/Remote.java)
+                                          | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/TvRemote.java)
+                                          | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/AcRemote.java)
+                                          | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/Test.java)
+------------------------------------------------------------------------------------------------------------------
