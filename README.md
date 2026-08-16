@@ -79,7 +79,7 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
 -----------------------------------------------------------------------------------------------------------------
 | 13   | OOPS-Polymorphism Compile Time   | [view](./day13-OOPS-Principles-Polymorphism/CompileTime/MethodOverloading/Calculator.java)
 -----------------------------------------------------------------------------------------------------------------
-| 14   | Run Time Polymorphism            | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/Remote.java)
+| 14   | OOPS-Run Time Polymorphism       | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/Remote.java)
                                           | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/TvRemote.java)
                                           | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/AcRemote.java)
                                           | [view](./day14-OOPS-Principles-Polymorphism/runtimepolymorphism/Test.java)
@@ -88,4 +88,7 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day15-Access-Modifiers/publicone/Class2.java)
                                           | [view](./day15-Access-Modifiers/publictwo/Class3.java)
                                           | [view](./day15-Access-Modifiers/publictwo/Class4.java)
-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+| 16   | OOPS-Encapsulation               | [view](./day16-OOPS-Principles-Encapsulation/encapsulation/User.java)
+                                          | [view](./day16-OOPS-Principles-Encapsulation/encapsulation/Test.java)
+-------------------------------------------------------------------------------------------------------------------
