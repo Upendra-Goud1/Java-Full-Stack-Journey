@@ -92,3 +92,6 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
 | 16   | OOPS-Encapsulation               | [view](./day16-OOPS-Principles-Encapsulation/encapsulation/User.java)
                                           | [view](./day16-OOPS-Principles-Encapsulation/encapsulation/Test.java)
 -------------------------------------------------------------------------------------------------------------------
+| 17   | OOPS Object Class                | [view](./day17-OOPS-ObjectClass/objectclass/Person.java)
+                                          | [view](./day17-OOPS-ObjectClass/notes.md)
+-------------------------------------------------------------------------------------------------------------------
