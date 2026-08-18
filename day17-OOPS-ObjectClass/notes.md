@@ -33,3 +33,66 @@ Theory:
 - > Default equals() → compares memory addresses (reference comparison)
 - > Overridden equals() → compares actual field values (content comparison)
 
+## 2. What is hashCode()?
+
+- > hashCode() is a method provided by the Object class.
+
+- > Every Java object has a hash code, which is an integer value used by hash-based collections such as:
+
+HashMap
+HashSet
+Hashtable
+
+##  hashCode() and equals() Contract
+
+- > There is an important contract between equals() and hashCode().
+
+## Rule 1 — Equal objects MUST have the same hash code
+
+If:
+obj1.equals(obj2)
+returns true, then:
+obj1.hashCode() == obj2.hashCode()
+must also be true
+
+## Rule 2 — Same hash code does NOT mean objects are equal
+
+Two different objects can have the same hash code.
+
+##  Hash Collision
+
+- > When two different objects have the same hash code, it is called a:
+
+## Hash Collision
+
+        Object A
+           │
+           ▼
+      hashCode = 100
+           ▲
+           │
+      hashCode = 100
+           │
+        Object B
+
+          ↓
+
+     Hash Collision
+
+## Overriding hashCode()
+
+- > If you override equals(), you should also override hashCode().
+
+Example:
+
+class Person {
+
+    String name;
+    int age;
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age);
+    }
+}
+

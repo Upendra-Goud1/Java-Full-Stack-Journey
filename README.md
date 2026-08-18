@@ -94,4 +94,5 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
 -------------------------------------------------------------------------------------------------------------------
 | 17   | OOPS Object Class                | [view](./day17-OOPS-ObjectClass/objectclass/Person.java)
                                           | [view](./day17-OOPS-ObjectClass/notes.md)
+                                          | [view](./day17-OOPS-ObjectClass/objectclass/HashCode/Member.java)
 -------------------------------------------------------------------------------------------------------------------
