@@ -102,3 +102,9 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day18-OOPS-Principles-Abstraction/abstractclass/Test.java)
                                           | [view](./day18-OOPS-Principles-Abstraction/notes.md)
 -------------------------------------------------------------------------------------------------------------------
+| 19   | OOPS Interfaces                  | [view](./day19-OOPS-Interfaces/interfaces/Trai.java)
+                                          | [view](./day19-OOPS-Interfaces/interfaces/Airtel.java)
+                                          | [view](./day19-OOPS-Interfaces/interfaces/Jio.java)
+                                          | [view](./day19-OOPS-Interfaces/interfaces/TraiTest.java)
+                                          | [view](./day19-OOPS-Interfaces/notes.md)
+-------------------------------------------------------------------------------------------------------------------
