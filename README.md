@@ -108,9 +108,16 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day19-OOPS-Interfaces/interfaces/TraiTest.java)
                                           | [view](./day19-OOPS-Interfaces/notes.md)
 -------------------------------------------------------------------------------------------------------------------
- 20    |OOPS Princip MultipleInheritance  | [view](./day20-OOPS-Principles-MultipleInheritance/multipleinheritance/A.java)
+|20    |OOPS Princip MultipleInheritance  | [view](./day20-OOPS-Principles-MultipleInheritance/multipleinheritance/A.java)
                                           | [view](./day20-OOPS-Principles-MultipleInheritance/multipleinheritance/B.java)
                                           | [view](./day20-OOPS-Principles-MultipleInheritance/multipleinheritance/C.java)
                                           | [view](./day20-OOPS-Principles-MultipleInheritance/multipleinheritance/Test.java)
                                           | [view](./day20-OOPS-Principles-MultipleInheritance/notes.md)
+-------------------------------------------------------------------------------------------------------------------
+| 21   | OOPS Principles HybridInheritance| [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/Vehicle.java)
+                                          | [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/Car.java)
+                                          | [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/FuelCar.java)
+                                          | [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/Bmw.java)
+                                          | [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/Test.java)
+                                          | [view](./day21-OOPS-Principles-HybridInheritance/notes.md)
 -------------------------------------------------------------------------------------------------------------------
