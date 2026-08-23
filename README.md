@@ -121,3 +121,9 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day21-OOPS-Principles-HybridInheritance/hybridinheritance/Test.java)
                                           | [view](./day21-OOPS-Principles-HybridInheritance/notes.md)
 -------------------------------------------------------------------------------------------------------------------
+| 22   | Has A Relation and Wrapperclasses| [view](./day22-Has-A-Relation/hasarelation/Professor.java)
+                                          | [view](./day22-Has-A-Relation/hasarelation/Department.java)
+                                          | [view](./day22-Has-A-Relation/hasarelation/Test.java)
+                                          | [view](./day22-Has-A-Relation/hasarelation/wrapperclasses/Test.java)
+                                          | [view](./day22-Has-A-Relation/notes.md)
+-------------------------------------------------------------------------------------------------------------------
