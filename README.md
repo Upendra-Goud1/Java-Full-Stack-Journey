@@ -127,3 +127,11 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day22-Has-A-Relation/hasarelation/wrapperclasses/Test.java)
                                           | [view](./day22-Has-A-Relation/notes.md)
 -------------------------------------------------------------------------------------------------------------------
+| 23   | Exception Handling               | [view](./day23-Exception-Handling/compiletimeexception/FileHandling.java)
+                                          | [view](./day23-Exception-Handling/runtimeexception/Calculator.java)
+                                          | [view](./day23-Exception-Handling/runtimeexception/FinallyDemo.java)
+                                          | [view](./day23-Exception-Handling/runtimeexception/MultipleCatchBlocks.java)
+                                          | [view](./day23-Exception-Handling/customizedexceptions/CustomizedExceptions.java)
+                                          | [view](./day23-Exception-Handling/customizedexceptions/InvalidAgeException.java)
+                                          | [view](./day23-Exception-Handling/notes.md)
+-------------------------------------------------------------------------------------------------------------------
