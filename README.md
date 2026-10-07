@@ -135,6 +135,11 @@ Follow the full series on [LinkedIn](https://www.linkedin.com/in/e-upendra-goud-
                                           | [view](./day23-Exception-Handling/customizedexceptions/InvalidAgeException.java)
                                           | [view](./day23-Exception-Handling/notes.md)
 -------------------------------------------------------------------------------------------------------------------
-| 024  | File Handling                    | [view](./day24-File-Handling/filehandling/ByteStreams.java)
+| 24  | File Handling                     | [view](./day24-File-Handling/filehandling/ByteStreams.java)
                                           | [view](./day24-File-Handling/notes.md)
+-------------------------------------------------------------------------------------------------------------------
+| 25  | Mini Project                      | [view](./day25-MiniProject/com/Driver.java)
+                                          | [view](./day25-MiniProject/com/Travel.java)
+                                          | [view](./day25-MiniProject/com/TestDriver.java)
+                                          | [view](./day25-MiniProject/notes.md)
 -------------------------------------------------------------------------------------------------------------------
